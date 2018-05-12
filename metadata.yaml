@@ -1,5 +1,8 @@
 _repo: With-Trapper-Jim-in-the-North-Woods_9649
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Leslie, Lawrence J.
@@ -7,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2253
 description: <Span><span>Originally published in the early 1900s, ""With Trapper Jim
   in the North Woods"" is a classic children's adventure written by Lawrence J. Leslie.</span></span>
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9649#With-Trapper-Jim-in-the-North-Woods
 gutenberg_issued: '2006-01-01'
 gutenberg_type: Text
 identifiers:
